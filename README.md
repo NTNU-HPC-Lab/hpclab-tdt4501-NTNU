@@ -1,5 +1,5 @@
 # HPC Lab Specialization Report Template
-This repository is a fork of [COPCSE-NTNU/thesis-NTNU]{https://github.com/COPCSE-NTNU/thesis-NTNU}.
+This repository is a fork of [COPCSE-NTNU/thesis-NTNU](https://github.com/COPCSE-NTNU/thesis-NTNU).
 The repository contains a template for reports written for TDT4501 - Computer Science, Specialization Project.
 
 Below is the original README from the original repository.
